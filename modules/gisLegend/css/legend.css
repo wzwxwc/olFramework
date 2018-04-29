@@ -1,0 +1,42 @@
+.legend {
+    position: absolute;
+    right: 60px;
+    bottom: 10px;
+    width: 280px;
+    padding: 15px;
+    font-size: 0;
+    background: rgba(255, 255, 255, .95);
+    z-index: 99;
+    display: none;
+}
+
+.legendSwi, .legend {
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+.legendActive {
+    color: #2c9eff;
+}
+
+.legendSwiLabel_up {
+    background: #fff url(./img/legend.png) no-repeat;
+    background-position: center top;
+}
+
+.legendSwi {
+    position: absolute;
+    box-sizing: content-box;
+    bottom: 76px;
+    right: 10px;
+    padding: 16px 0 5px 0;
+    width: 35px;
+    line-height: 1.5;
+    cursor: pointer;
+    font-size: 12px;
+    color: #333;
+    text-align: center;
+    border-radius: 3px;
+    box-shadow: -1px 2px 3px rgba(0, 0, 0, .15);
+}

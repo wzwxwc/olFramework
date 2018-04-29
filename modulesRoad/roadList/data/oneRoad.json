@@ -1,0 +1,39 @@
+{
+  "bgcode": "220281100209",
+  "condition": 0,
+  "conditionname": "",
+  "construct": "",
+  "contractor": "",
+  "designer": "",
+  "district": "保安村",
+  "dutyleader": "孙英杰",
+  "dutyyear": "",
+  "enddate": 1601827200000,
+  "fund": 300,
+  "fundsource": "吉林市公路改造项目",
+  "geom": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        127.373113309742,
+        43.9027415638731
+      ],
+      [
+        127.373119939345,
+        43.9015484745757
+      ]
+    ]
+  },
+  "gid": 66,
+  "id": 0,
+  "imgpath": "http://219.149.226.180:7883/fupin/daping/assets/fupin/img/roadlist/liangjiaweizi.jpg",
+  "planyear": "2018",
+  "progress": "2",
+  "progressname": "建设中",
+  "roadid": "road0001",
+  "roadname": "保安村路",
+  "startdate": 1520179200000,
+  "state": 3,
+  "supervisor": "",
+  "type": 5
+}

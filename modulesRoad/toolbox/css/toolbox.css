@@ -1,0 +1,43 @@
+/*标题菜单中的样式*/
+.gis-toolbox {
+    position: absolute;
+    right: 0;
+    z-index: 99;
+}
+
+.gis-toolbox ul {
+    width: auto;
+    margin-right: 20px;
+}
+
+.gis-toolbox li {
+    float: left;
+    height: 50px;
+    line-height: 50px;
+    margin-left: 20px;
+}
+
+.gis-toolbox ul, li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.gis-toolbox li[type=screen] img{
+    content:url("../img/screen.png")
+}
+.gis-toolbox li[type=exit] img{
+    content:url("../img/exit.png")
+}
+.gis-toolbox li[type=construct_road] img{
+    content:url("../img/road.png")
+}
+.gis-toolbox li[type=statistics] img{
+    content:url("../img/statistics.png")
+}
+.gis-toolbox li[type=event] img{
+    content:url("../img/event.png")
+}
+.gis-toolbox li[type=admin] img{
+    content:url("../img/admin.png")
+}

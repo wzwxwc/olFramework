@@ -1,0 +1,201 @@
+.condition-container dl {
+    margin: 0px;
+    font-size: 12px;
+}
+
+.condition-container dl dt {
+    float: left;
+}
+
+.condition-container dl dd {
+    margin-left: 100px;
+}
+
+.search_condition {
+    display: inline-block;
+    width: 92px;
+}
+
+.selector-div {
+    display: none;
+    position: fixed;
+    left: 320px;
+    background-color: #fff;
+    width: 550px;
+    margin-top: -35px;
+    padding: 5px 10px;
+    box-shadow: 5px 5px 5px #ccc;
+}
+
+.checkbox-img {
+    width: 12px;
+    height: 12px;
+    display: inline-block;
+    vertical-align: middle;
+    background: url("../img/checkbox.png") no-repeat;
+}
+
+.selected .checkbox-img {
+    background: url("../img/checkbox-select.png") no-repeat;
+}
+
+.selectedShow {
+    display: inline-block;
+}
+
+.listIndex {
+    border-bottom: 1px solid #cccccc;
+    padding: 10px 0;
+}
+
+.listIndex:last-child {
+    border-bottom: 0px;
+}
+
+.listIndex dt {
+    width: 84px;
+    color: #999999;
+}
+
+.listIndex:first-child dt {
+    line-height: 25px;
+}
+
+.selectedInfor {
+    border: 1px solid #3b99fd;
+    line-height: 24px;
+    font-size: 12px;
+    padding: 0px 5px;
+    margin: 0px 5px;
+}
+
+.cancel-selected {
+    /*display: inline-block;*/
+    /*background: url("../assets/fupin/img/close-blue.png") no-repeat;*/
+    width: 9px;
+    height: 9px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+.cancel-selected:hover {
+    cursor: pointer;
+}
+
+.button-container {
+    text-align: center;
+    /*margin: 10px;*/
+}
+
+.button-container button {
+    border: 1px solid #e0e0e0;
+    font-size: 12px;
+    border-radius: 2px;
+    margin: 5px;
+}
+
+.button-container .submit {
+    background-color: #3C98FC;
+    color: white;
+
+}
+
+.button-container .cancel {
+    background-color: #ffffff;
+    /*color: #e0e0e0;*/
+}
+
+.selected-typename {
+    color: #999;
+}
+
+.selected-name {
+    color: #3C98FC;
+}
+
+.tabContent {
+    /* width: 300px; */
+    /* border: 1px solid #efefef; */
+    /* border-top: none; */
+    background-color: #fff;
+    /* padding: 10px; */
+    /* margin-left: 10px; */
+    z-index: 9999;
+}
+
+.mulTabs {
+    /* width: 288px; */
+    /* background-color: #fff; */
+    /* margin-bottom: 1px; */
+    /* border-bottom: 2px solid #3C98FC; */
+    /* height: 25px; */
+    line-height: 25px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.tab {
+    vertical-align: middle;
+    display: inline-block;
+    font-size: 12px;
+    float: left;
+    margin-right: 1px;
+    /* border: 1px solid #e0e0e0; */
+    border-bottom: none;
+    text-align: center;
+    background: url(../img/arrow-down.png) right no-repeat;
+    padding: 0px 18px 0px 5px;
+    /* height: 25px; */
+    /* line-height: 20px; */
+    max-width: 75px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: none;
+}
+
+.tab:nth-child(4n) {
+    margin-right: 0px;
+}
+
+.tab:first-child {
+    display: block;
+}
+
+.tab:hover {
+    cursor: pointer;
+}
+
+.currentTab {
+    /* border: 2px solid #3C98FC; */
+    /* border-bottom: 2px solid #fff; */
+    background-color: #daebff;
+}
+
+/*tab菜单*/
+.tabList {
+    /*margin-bottom: 40px;*/
+    /*border-top: 2px solid #3C98FC;*/
+    /*margin-top: -3px;*/
+    padding: 10px;
+    /*min-height:50px;*/
+    display: none;
+    background-color: #daebff;
+}
+
+.tabList a {
+
+    /* padding: 3px 10px; */
+    font-size: 12px;
+    color: #333333;
+    width: 100px;
+    display: inline-block;
+    /*margin-right: 5px;*/
+    /* margin-top: 5px; */
+}
+
+.tabList a:hover {
+    /*background-color: #efefef;*/
+    text-decoration: underline;
+    cursor: pointer;
+}

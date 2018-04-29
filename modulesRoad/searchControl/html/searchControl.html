@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=9">
+    <title>道路列表</title>
+</head>
+<body>
+<div>
+    <div class="selector-result hasBeenSelected clearfix">
+        <dl>
+            <dt><!--已选条件：--></dt>
+            <dd class=clearDd>
+                <div class=clearList></div>
+        </dl>
+    </div>
+    <div class="selector-list">
+        <div class="condition-container">
+            <dl class="listIndex">
+                <dt>行政区域:</dt>
+                <dd>
+                    <div class="types tabContent firstLine">
+                        <ul id="cArea" class="mulTabs">
+                            <li class="tab" tab-level="1">请选择</li>
+                            <li class="tab" tab-level="2">请选择</li>
+                            <li class="tab" tab-level="3">请选择</li>
+                            <li class="tab" tab-level="4">请选择</li>
+                            <br>
+                        </ul>
+                        <div class="tabList" ctype="3" data-level="1">
+                            <a class="param">请选择</a>
+                            <a class="param">请选择</a>
+                            <br>
+                        </div>
+                        <div class="tabList" ctype="3" data-level="2">
+                            <a class="param">请选择</a>
+                            <br>
+                        </div>
+                        <div class="tabList" ctype="3" data-level="3">
+                            <a class="param">请选择</a>
+                            <br>
+                        </div>
+                        <div class="tabList" ctype="3" data-level="4">
+                            <a class="param">请选择</a>
+                            <br>
+                        </div>
+                    </div>
+                </dd>
+            </dl>
+            <dl class="listIndex" searchtype="active_road">
+                <dt>现役公路质量:</dt>
+                <dd>
+                    <label class="search_condition">
+                        <div class="checkbox-img" name="checkbox2" value="0"></div>
+                        <a values2="" values1="" attrval="android">全选</a> </label>
+                    <label class="search_condition">
+                        <div class="checkbox-img" name="checkbox2" value="1"></div>
+                        <a values2="" values1="" attrval="android">优</a> </label>
+                    <label class="search_condition">
+                        <div class="checkbox-img" name="checkbox2" value="2"></div>
+                        <a values2="" values1="" attrval="symbian">良</a></label>
+                    <label class="search_condition">
+                        <div class="checkbox-img" name="checkbox2" value="3"></div>
+                        <a values2="" values1="" attrval="百度易平台">中</a>
+                    </label>
+                    <label class="search_condition">
+                        <div class="checkbox-img" name="checkbox2" value="4"></div>
+                        <a values2="" values1="" attrval="symbian">次</a></label>
+                    <label class="search_condition">
+                        <div class="checkbox-img" name="checkbox2" value="5"></div>
+                        <a values2="" values1="" attrval="百度易平台">差</a>
+                    </label>
+                </dd>
+            </dl>
+            <dl class="listIndex" searchtype="construction_road">
+                <dt>建设公路状态:</dt>
+                <dd>
+                    <label class="search_condition">
+                        <div class="checkbox-img" name="checkbox2" value="0"></div>
+                        <a values2="" values1="" attrval="android">全选</a> </label>
+                    <label class="search_condition">
+                        <div class="checkbox-img" name="checkbox2" value="1"></div>
+                        <a values2="" values1="" attrval="android"> 已完成</a> </label>
+                    <label class="search_condition">
+                        <div class="checkbox-img" name="checkbox2" value="2"></div>
+                        <a values2="" values1="" attrval="symbian">建设中</a></label>
+                    <label class="search_condition">
+                        <div class="checkbox-img" name="checkbox2" value="3"></div>
+                        <a values2="" values1="" attrval="百度易平台">未开始</a>
+                    </label>
+                </dd>
+            </dl>
+            <dl class="listIndex" searchtype="plan_road">
+                <dt>规划公路年份:</dt>
+                <dd>
+                    <label class="search_condition">
+                        <div class="checkbox-img" name="checkbox2" value="0"></div>
+                        <a values2="" values1="" attrval="android">全选</a> </label>
+                    <label class="search_condition">
+                        <div class="checkbox-img" name="checkbox2" value="2018"></div>
+                        <a values2="" values1="" attrval="android">2018</a> </label>
+                    <label class="search_condition">
+                        <div class="checkbox-img" name="checkbox2" value="2019"></div>
+                        <a values2="" values1="" attrval="symbian">2019</a></label>
+                    <label class="search_condition">
+
+                        <div class="checkbox-img" name="checkbox2" value="2020"></div>
+                        <a values2="" values1="" attrval="百度易平台">2020</a>
+                    </label>
+                </dd>
+            </dl>
+            <dl class="listIndex" searchtype="road_level">
+                <dt>公路等级:</dt>
+                <dd>
+                    <label class="search_condition">
+
+                        <div class="checkbox-img" name="checkbox2" value="0"></div>
+                        <a values2="" values1="" attrval="android">全选</a> </label>
+                    <label class="search_condition">
+
+                        <div class="checkbox-img" name="checkbox2" value="1"></div>
+                        <a values2="" values1="" attrval="android">国道</a> </label>
+                    <label class="search_condition">
+
+                        <div class="checkbox-img" name="checkbox2" value="2"></div>
+                        <a values2="" values1="" attrval="symbian">省道</a></label>
+                    <label class="search_condition">
+
+                        <div class="checkbox-img" name="checkbox2" value="3"></div>
+                        <a values2="" values1="" attrval="android">县道</a> </label>
+                    <label class="search_condition">
+
+                        <div class="checkbox-img" name="checkbox2" value="4"></div>
+                        <a values2="" values1="" attrval="symbian">乡道</a></label>
+                    <label class="search_condition">
+                        <div class="checkbox-img" name="checkbox2" value="5"></div>
+                        <a values2="" values1="" attrval="百度易平台">村道</a>
+                    </label>
+                    <label class="search_condition">
+                        <div class="checkbox-img" name="checkbox2" value="6"></div>
+                        <a values2="" values1="" attrval="百度易平台">专用公路</a>
+                    </label>
+                </dd>
+            </dl>
+            <dl class="listIndex" searchtype="bridge_level">
+                <dt>桥梁:</dt>
+                <dd>
+                    <label class="search_condition">
+                        <div class="checkbox-img" name="checkbox2" value="0"></div>
+                        <a values2="" values1="" attrval="android">全选</a> </label>
+                    <label class="search_condition">
+
+                        <div class="checkbox-img" name="checkbox2" value="1"></div>
+                        <a values2="" values1="" attrval="android">一类</a> </label>
+                    <label class="search_condition">
+
+                        <div class="checkbox-img" name="checkbox2" value="2"></div>
+                        <a values2="" values1="" attrval="symbian">二类</a></label>
+                    <label class="search_condition">
+
+                        <div class="checkbox-img" name="checkbox2" value="3"></div>
+                        <a values2="" values1="" attrval="android">三类</a> </label>
+                </dd>
+            </dl>
+            <dl class="listIndex" searchtype="bridge_level">
+                <dt>隧道:</dt>
+                <dd>
+                    <label class="search_condition">
+                        <div class="checkbox-img" name="checkbox2" value="0"></div>
+                        <a values2="" values1="" attrval="android">全选</a> </label>
+                    <label class="search_condition">
+
+                        <div class="checkbox-img" name="checkbox2" value="1"></div>
+                        <a values2="" values1="" attrval="android">短隧道</a> </label>
+                    <label class="search_condition">
+
+                        <div class="checkbox-img" name="checkbox2" value="2"></div>
+                        <a values2="" values1="" attrval="symbian">中隧道</a></label>
+                    <label class="search_condition">
+
+                        <div class="checkbox-img" name="checkbox2" value="3"></div>
+                        <a values2="" values1="" attrval="android">长隧道</a> </label>
+                </dd>
+            </dl>
+        </div>
+    </div>
+    <div class="button-container">
+        <button class="submit">确定</button>
+        <button class="cancel">取消</button>
+    </div>
+</div>
+</body>
+</html>

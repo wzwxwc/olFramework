@@ -1,0 +1,1138 @@
+[
+  {
+    "id": "road0001",
+    "roadcode": "road0001",
+    "roadname": "梁家崴子村路",
+    "startdate": "2017-03-05",
+    "enddate": "2017-10-12",
+    "url": "road_engineering.html",
+    "tupian": "./assets/fupin/img/roadlist/liangjiaweizi.jpg",
+    "district": "梁家崴子",
+    "progress": 1,
+    "progressname": "施工中",
+    "dutyleader": "李健",
+    "dutyyear": "2017",
+    "fund": "300万",
+    "fundsource": "吉林市扶贫公路改造项目",
+    "contractor": "吉林建工集团有限公司",
+    "designer": "吉林省交通规划设计院",
+    "construct": "吉林市正龙建筑工程有限公司",
+    "supervisor": "吉林省工程建设监理有限责任公司",
+    "road": 1,
+    "telicon": "/workBenchHome/anquan/daping/assets/event/tel.png",
+    "addressicon": "/workBenchHome/anquan/daping/assets/event/address.png",
+    "fanweicon": "/workBenchHome/anquan/daping/assets/event/fanweicon.png",
+    "hangyeicon": "/workBenchHome/anquan/daping/assets/event/hangyeqiye.png",
+    "icon": "/workBenchHome/anquan/daping/assets/event/xukezheng.png",
+    "icontb": "/workBenchHome/anquan/daping/assets/event/biaoqian.png",
+    "mposb": 43.9892845490842,
+    "mposl": 126.631442880138,
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          126.629415846253,
+          43.983450704543
+        ],
+        [
+          126.629415846253,
+          43.9844782983063
+        ],
+        [
+          126.629415846253,
+          43.9853069899976
+        ],
+        [
+          126.629323708349,
+          43.9861356701206
+        ],
+        [
+          126.629277639397,
+          43.9866328726415
+        ],
+        [
+          126.629323708349,
+          43.9870306316597
+        ],
+        [
+          126.629784397868,
+          43.9871632174069
+        ],
+        [
+          126.63029115634,
+          43.9875609728713
+        ],
+        [
+          126.630843983763,
+          43.9881907469056
+        ],
+        [
+          126.630982190619,
+          43.9886879322128
+        ],
+        [
+          126.631166466426,
+          43.9890193867706
+        ],
+        [
+          126.631442880138,
+          43.9892845490842
+        ],
+        [
+          126.631535018042,
+          43.989582855271
+        ],
+        [
+          126.631765362802,
+          43.9897154353171
+        ],
+        [
+          126.632502466033,
+          43.9899474496853
+        ],
+        [
+          126.632963155552,
+          43.9902788972095
+        ],
+        [
+          126.633423845072,
+          43.9904446202776
+        ],
+        [
+          126.634068810399,
+          43.9906434873483
+        ],
+        [
+          126.635174465245,
+          43.9908092093983
+        ],
+        [
+          126.636326189044,
+          43.9909086424062
+        ],
+        [
+          126.636694740659,
+          43.9911075079221
+        ],
+        [
+          126.636925085419,
+          43.9913063727717
+        ],
+        [
+          126.637616119698,
+          43.99114065211
+        ],
+        [
+          126.638261085025,
+          43.9911075079221
+        ],
+        [
+          126.638491429785,
+          43.99114065211
+        ]
+      ]
+    }
+  },
+  {
+    "id": "road0002",
+    "roadcode": "road0002",
+    "roadname": "田家窝堡西路",
+    "startdate": "2017-03-05",
+    "enddate": "2017-10-12",
+    "url": "road_engineering.html",
+    "tupian": "./assets/fupin/img/roadlist/tianjiawopu.jpg",
+    "district": "田家窝堡",
+    "progress": 1,
+    "progressname": "施工中",
+    "dutyleader": "李健",
+    "dutyyear": "2017",
+    "fund": "300万",
+    "fundsource": "吉林市扶贫公路改造项目",
+    "contractor": "吉林建工集团有限公司",
+    "designer": "吉林省交通规划设计院",
+    "construct": "吉林市正龙建筑工程有限公司",
+    "supervisor": "吉林省工程建设监理有限责任公司",
+    "road": 1,
+    "telicon": "/workBenchHome/anquan/daping/assets/event/tel.png",
+    "addressicon": "/workBenchHome/anquan/daping/assets/event/address.png",
+    "fanweicon": "/workBenchHome/anquan/daping/assets/event/fanweicon.png",
+    "hangyeicon": "/workBenchHome/anquan/daping/assets/event/hangyeqiye.png",
+    "icon": "/workBenchHome/anquan/daping/assets/event/xukezheng.png",
+    "icontb": "/workBenchHome/anquan/daping/assets/event/biaoqian.png",
+    "mposb": 43.901850505273586,
+    "mposl": 127.37445831298828,
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          126.638491429785,
+          43.99114065211
+        ],
+        [
+          126.639228533016,
+          43.9910080752474
+        ],
+        [
+          126.640242049959,
+          43.9909086424062
+        ],
+        [
+          126.640840946334,
+          43.9909417867051
+        ],
+        [
+          126.641531980613,
+          43.9909749309856
+        ],
+        [
+          126.641900532228,
+          43.9911075079221
+        ],
+        [
+          126.642130876988,
+          43.9912400845626
+        ],
+        [
+          126.642361221748,
+          43.9913063727717
+        ],
+        [
+          126.642775842315,
+          43.99114065211
+        ],
+        [
+          126.643144393931,
+          43.9910412194909
+        ],
+        [
+          126.643789359258,
+          43.9913063727717
+        ],
+        [
+          126.64406577297,
+          43.991438948968
+        ],
+        [
+          126.644296117729,
+          43.9915383809209
+        ],
+        [
+          126.644848945153,
+          43.9915383809209
+        ],
+        [
+          126.645678186287,
+          43.9913063727717
+        ],
+        [
+          126.646875979038,
+          43.9911075079221
+        ],
+        [
+          126.647889495981,
+          43.9909749309856
+        ],
+        [
+          126.648764806067,
+          43.9909417867051
+        ],
+        [
+          126.649686185106,
+          43.9911737962794
+        ],
+        [
+          126.65000866777,
+          43.9913063727717
+        ]
+      ]
+    }
+  },
+  {
+    "id": "road0003",
+    "roadcode": "road0003",
+    "roadname": "柳树村路",
+    "startdate": "2017-03-05",
+    "enddate": "2017-10-12",
+    "url": "road_engineering.html",
+    "tupian": "./assets/fupin/img/roadlist/liushucun.jpg",
+    "district": "柳树村",
+    "progress": 1,
+    "progressname": "施工中",
+    "dutyleader": "李健",
+    "dutyyear": "2017",
+    "fund": "300万",
+    "fundsource": "吉林市扶贫公路改造项目",
+    "contractor": "吉林建工集团有限公司",
+    "designer": "吉林省交通规划设计院",
+    "construct": "吉林市正龙建筑工程有限公司",
+    "supervisor": "吉林省工程建设监理有限责任公司",
+    "road": 1,
+    "telicon": "/workBenchHome/anquan/daping/assets/event/tel.png",
+    "addressicon": "/workBenchHome/anquan/daping/assets/event/address.png",
+    "fanweicon": "/workBenchHome/anquan/daping/assets/event/fanweicon.png",
+    "hangyeicon": "/workBenchHome/anquan/daping/assets/event/hangyeqiye.png",
+    "icon": "/workBenchHome/anquan/daping/assets/event/xukezheng.png",
+    "icontb": "/workBenchHome/anquan/daping/assets/event/biaoqian.png",
+    "mposb": 43.9905440538962,
+    "mposl": 126.659683147677,
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          126.654569494012,
+          43.9914058049467
+        ],
+        [
+          126.654799838771,
+          43.9919692507914
+        ],
+        [
+          126.655352666195,
+          43.9920023944981
+        ],
+        [
+          126.656227976282,
+          43.9918698195604
+        ],
+        [
+          126.656688665801,
+          43.9918366757798
+        ],
+        [
+          126.657195424272,
+          43.9918366757798
+        ],
+        [
+          126.65761004484,
+          43.991770388163
+        ],
+        [
+          126.658024665407,
+          43.9917372443267
+        ],
+        [
+          126.658347148071,
+          43.9915383809209
+        ],
+        [
+          126.65857749283,
+          43.9914058049467
+        ],
+        [
+          126.659084251302,
+          43.9913063727717
+        ],
+        [
+          126.659498871869,
+          43.9912400845626
+        ],
+        [
+          126.659591009773,
+          43.9910080752474
+        ],
+        [
+          126.659683147677,
+          43.9905440538962
+        ],
+        [
+          126.659591009773,
+          43.9902126078528
+        ],
+        [
+          126.659591009773,
+          43.9899474496853
+        ],
+        [
+          126.659821354533,
+          43.9896822903334
+        ],
+        [
+          126.660143837196,
+          43.9896491453311
+        ],
+        [
+          126.660512388812,
+          43.989582855271
+        ],
+        [
+          126.661019147283,
+          43.9889530960071
+        ],
+        [
+          126.661387698899,
+          43.9882570385206
+        ],
+        [
+          126.661618043659,
+          43.9878924337223
+        ],
+        [
+          126.661802319466,
+          43.9874615342551
+        ],
+        [
+          126.661848388418,
+          43.9870637781243
+        ],
+        [
+          126.662216940034,
+          43.9861025231378
+        ],
+        [
+          126.662216940034,
+          43.9855390215981
+        ],
+        [
+          126.662631560601,
+          43.9847434809062
+        ],
+        [
+          126.662493353745,
+          43.9839479295528
+        ],
+        [
+          126.662309077938,
+          43.9829203266089
+        ]
+      ]
+    }
+  },
+  {
+    "id": "road0004",
+    "roadcode": "road0004",
+    "roadname": "金屯路",
+    "startdate": "2017-03-05",
+    "enddate": "2017-10-12",
+    "url": "road_engineering.html",
+    "tupian": "./assets/fupin/img/roadlist/jintun.jpg",
+    "district": "金屯",
+    "progress": 0,
+    "progressname": "未开工",
+    "dutyleader": "李健",
+    "dutyyear": "2017",
+    "fund": "300万",
+    "fundsource": "吉林市扶贫公路改造项目",
+    "contractor": "吉林建工集团有限公司",
+    "designer": "吉林省交通规划设计院",
+    "construct": "吉林市正龙建筑工程有限公司",
+    "supervisor": "吉林省工程建设监理有限责任公司",
+    "road": 1,
+    "telicon": "/workBenchHome/anquan/daping/assets/event/tel.png",
+    "addressicon": "/workBenchHome/anquan/daping/assets/event/address.png",
+    "fanweicon": "/workBenchHome/anquan/daping/assets/event/fanweicon.png",
+    "hangyeicon": "/workBenchHome/anquan/daping/assets/event/hangyeqiye.png",
+    "icon": "/workBenchHome/anquan/daping/assets/event/xukezheng.png",
+    "icontb": "/workBenchHome/anquan/daping/assets/event/biaoqian.png",
+    "mposb": 43.9809976668767,
+    "mposl": 126.658531423879,
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          126.657932527503,
+          43.9828871778307
+        ],
+        [
+          126.658116803311,
+          43.9821579000272
+        ],
+        [
+          126.658531423879,
+          43.9809976668767
+        ],
+        [
+          126.658715699686,
+          43.9801357647157
+        ],
+        [
+          126.65857749283,
+          43.9789091900678
+        ],
+        [
+          126.658715699686,
+          43.9775499831591
+        ],
+        [
+          126.658715699686,
+          43.9766548786913
+        ]
+      ]
+    }
+  },
+  {
+    "id": "road0005",
+    "roadcode": "road0005",
+    "roadname": "李家村路",
+    "startdate": "2017-03-05",
+    "enddate": "2017-10-12",
+    "url": "road_engineering.html",
+    "tupian": "./assets/fupin/img/roadlist/lijiacun.jpg",
+    "district": "李家村",
+    "progress": 0,
+    "progressname": "未开工",
+    "dutyleader": "李健",
+    "dutyyear": "2017",
+    "fund": "300万",
+    "fundsource": "吉林市扶贫公路改造项目",
+    "contractor": "吉林建工集团有限公司",
+    "designer": "吉林省交通规划设计院",
+    "construct": "吉林市正龙建筑工程有限公司",
+    "supervisor": "吉林省工程建设监理有限责任公司",
+    "road": 1,
+    "telicon": "/workBenchHome/anquan/daping/assets/event/tel.png",
+    "addressicon": "/workBenchHome/anquan/daping/assets/event/address.png",
+    "fanweicon": "/workBenchHome/anquan/daping/assets/event/fanweicon.png",
+    "hangyeicon": "/workBenchHome/anquan/daping/assets/event/hangyeqiye.png",
+    "icon": "/workBenchHome/anquan/daping/assets/event/xukezheng.png",
+    "icontb": "/workBenchHome/anquan/daping/assets/event/biaoqian.png",
+    "mposb": 43.9841136702973,
+    "mposl": 126.673411695355,
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          126.686633484562,
+          43.9925989780523
+        ],
+        [
+          126.685389622859,
+          43.991770388163
+        ],
+        [
+          126.683685071637,
+          43.9911075079221
+        ],
+        [
+          126.683086175262,
+          43.9909749309856
+        ],
+        [
+          126.681796244608,
+          43.9904446202776
+        ],
+        [
+          126.681013072425,
+          43.9901131736789
+        ],
+        [
+          126.679815279675,
+          43.9890193867706
+        ],
+        [
+          126.67852534902,
+          43.9880913093444
+        ],
+        [
+          126.677281487318,
+          43.9869311921551
+        ],
+        [
+          126.676452246183,
+          43.986301404757
+        ],
+        [
+          126.676221901423,
+          43.9856384634351
+        ],
+        [
+          126.675669074,
+          43.9846771853672
+        ],
+        [
+          126.675116246577,
+          43.9844120024713
+        ],
+        [
+          126.674333074394,
+          43.9841799664655
+        ],
+        [
+          126.673411695355,
+          43.9841136702973
+        ],
+        [
+          126.672213902605,
+          43.9840805221855
+        ],
+        [
+          126.67092397195,
+          43.9837490400487
+        ],
+        [
+          126.669864386056,
+          43.9834838530066
+        ],
+        [
+          126.669081213873,
+          43.9833512590413
+        ],
+        [
+          126.667192386843,
+          43.9831192188895
+        ],
+        [
+          126.666224938852,
+          43.9828208802188
+        ],
+        [
+          126.664796801342,
+          43.9829203266089
+        ],
+        [
+          126.662309077938,
+          43.9829203266089
+        ],
+        [
+          126.659222458158,
+          43.9828871778307
+        ],
+        [
+          126.657932527503,
+          43.9828871778307
+        ],
+        [
+          126.651022184712,
+          43.9828540290339
+        ],
+        [
+          126.646875979038,
+          43.9827545825327
+        ],
+        [
+          126.642499502987,
+          43.9829084177168
+        ],
+        [
+          126.639152972422,
+          43.9831273251303
+        ],
+        [
+          126.636795189524,
+          43.9834009582622
+        ]
+      ]
+    }
+  },
+  {
+    "id": "road0006",
+    "roadcode": "road0006",
+    "roadname": "柳树村乡道",
+    "startdate": "2017-03-05",
+    "enddate": "2017-10-12",
+    "url": "road_engineering.html",
+    "tupian": "./assets/fupin/img/roadlist/liushucun2.jpg",
+    "district": "柳树村",
+    "progress": 0,
+    "progressname": "未开工",
+    "dutyleader": "李健",
+    "dutyyear": "2017",
+    "fund": "300万",
+    "fundsource": "吉林市扶贫公路改造项目",
+    "contractor": "吉林建工集团有限公司",
+    "designer": "吉林省交通规划设计院",
+    "construct": "吉林市正龙建筑工程有限公司",
+    "supervisor": "吉林省工程建设监理有限责任公司",
+    "road": 1,
+    "telicon": "/workBenchHome/anquan/daping/assets/event/tel.png",
+    "addressicon": "/workBenchHome/anquan/daping/assets/event/address.png",
+    "fanweicon": "/workBenchHome/anquan/daping/assets/event/fanweicon.png",
+    "hangyeicon": "/workBenchHome/anquan/daping/assets/event/hangyeqiye.png",
+    "icon": "/workBenchHome/anquan/daping/assets/event/xukezheng.png",
+    "icontb": "/workBenchHome/anquan/daping/assets/event/biaoqian.png",
+    "mposb": 43.9780922504002,
+    "mposl": 126.641814985371,
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          126.638287336104,
+          43.9832277869338
+        ],
+        [
+          126.638240282268,
+          43.981704412514
+        ],
+        [
+          126.638772684858,
+          43.9816770484756
+        ],
+        [
+          126.639076914909,
+          43.9816770484756
+        ],
+        [
+          126.639305087447,
+          43.9811844936279
+        ],
+        [
+          126.639457202473,
+          43.9802814657938
+        ],
+        [
+          126.63991354755,
+          43.9797615344467
+        ],
+        [
+          126.639989605063,
+          43.9789132156321
+        ],
+        [
+          126.640255806358,
+          43.9783385411616
+        ],
+        [
+          126.640560036409,
+          43.9781196160908
+        ],
+        [
+          126.641206525268,
+          43.9780375189812
+        ],
+        [
+          126.641814985371,
+          43.9780922504002
+        ],
+        [
+          126.642499502987,
+          43.9780922504002
+        ],
+        [
+          126.642689646769,
+          43.9778733244213
+        ],
+        [
+          126.642765704282,
+          43.9774628360353
+        ],
+        [
+          126.642841761794,
+          43.9770797109813
+        ],
+        [
+          126.643374164384,
+          43.976778682419
+        ],
+        [
+          126.643602336923,
+          43.9764502858832
+        ],
+        [
+          126.643716423192,
+          43.9759303209874
+        ],
+        [
+          126.643374164384,
+          43.9756292865981
+        ],
+        [
+          126.642613589256,
+          43.9752735167162
+        ],
+        [
+          126.642195272935,
+          43.9745893378752
+        ],
+        [
+          126.641814985371,
+          43.9741240917609
+        ],
+        [
+          126.642119215422,
+          43.9728925403346
+        ]
+      ]
+    }
+  },
+  {
+    "id": "road0007",
+    "roadcode": "road0007",
+    "roadname": "韩家村路",
+    "startdate": "2017-03-05",
+    "enddate": "2017-10-12",
+    "url": "road_engineering.html",
+    "tupian": "./assets/fupin/img/roadlist/hanjiacun.jpg",
+    "district": "韩家村",
+    "progress": 2,
+    "progressname": "已完工",
+    "dutyleader": "李健",
+    "dutyyear": "2017",
+    "fund": "300万",
+    "fundsource": "吉林市扶贫公路改造项目",
+    "contractor": "吉林建工集团有限公司",
+    "designer": "吉林省交通规划设计院",
+    "construct": "吉林市正龙建筑工程有限公司",
+    "supervisor": "吉林省工程建设监理有限责任公司",
+    "road": 1,
+    "telicon": "/workBenchHome/anquan/daping/assets/event/tel.png",
+    "addressicon": "/workBenchHome/anquan/daping/assets/event/address.png",
+    "fanweicon": "/workBenchHome/anquan/daping/assets/event/fanweicon.png",
+    "hangyeicon": "/workBenchHome/anquan/daping/assets/event/hangyeqiye.png",
+    "icon": "/workBenchHome/anquan/daping/assets/event/xukezheng.png",
+    "icontb": "/workBenchHome/anquan/daping/assets/event/biaoqian.png",
+    "mposb": 43.9741240917609,
+    "mposl": 126.645085458423,
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          126.634589521652,
+          43.9725914905459
+        ],
+        [
+          126.636148700665,
+          43.9723725442864
+        ],
+        [
+          126.638354368537,
+          43.9723178075954
+        ],
+        [
+          126.639837490037,
+          43.9723451759472
+        ],
+        [
+          126.641054410243,
+          43.9726188587715
+        ],
+        [
+          126.642119215422,
+          43.9728925403346
+        ],
+        [
+          126.643222049359,
+          43.9732209565455
+        ],
+        [
+          126.644134739513,
+          43.9735220031434
+        ],
+        [
+          126.644515027077,
+          43.9736862097353
+        ],
+        [
+          126.645085458423,
+          43.9741240917609
+        ],
+        [
+          126.646036177334,
+          43.9748903775363
+        ],
+        [
+          126.647519298834,
+          43.9753556176473
+        ],
+        [
+          126.64862213277,
+          43.9755745529088
+        ],
+        [
+          126.650523570591,
+          43.9756566534238
+        ],
+        [
+          126.651360203232,
+          43.9756840202369
+        ],
+        [
+          126.653147554784,
+          43.9754924522803
+        ],
+        [
+          126.654060244938,
+          43.9753282506829
+        ],
+        [
+          126.655010963848,
+          43.9754103515384
+        ],
+        [
+          126.656418027836,
+          43.9757113870374
+        ],
+        [
+          126.657672976798,
+          43.9762313538504
+        ],
+        [
+          126.658715699686,
+          43.9766548786913
+        ]
+      ]
+    }
+  },
+  {
+    "id": "road0008",
+    "roadcode": "road0008",
+    "roadname": "大塘坊",
+    "startdate": "2017-03-05",
+    "enddate": "2017-10-12",
+    "url": "road_engineering.html",
+    "tupian": "./assets/fupin/img/roadlist/datangfang.jpg",
+    "district": "大塘坊",
+    "progress": 2,
+    "progressname": "已完工",
+    "dutyleader": "李健",
+    "dutyyear": "2017",
+    "fund": "300万",
+    "fundsource": "吉林市扶贫公路改造项目",
+    "contractor": "吉林建工集团有限公司",
+    "designer": "吉林省交通规划设计院",
+    "construct": "吉林市正龙建筑工程有限公司",
+    "supervisor": "吉林省工程建设监理有限责任公司",
+    "road": 1,
+    "telicon": "/workBenchHome/anquan/daping/assets/event/tel.png",
+    "addressicon": "/workBenchHome/anquan/daping/assets/event/address.png",
+    "fanweicon": "/workBenchHome/anquan/daping/assets/event/fanweicon.png",
+    "hangyeicon": "/workBenchHome/anquan/daping/assets/event/hangyeqiye.png",
+    "icon": "/workBenchHome/anquan/daping/assets/event/xukezheng.png",
+    "icontb": "/workBenchHome/anquan/daping/assets/event/biaoqian.png",
+    "mposb": 43.981567592196,
+    "mposl": 126.623409067265,
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          126.615308942147,
+          43.979925723785
+        ],
+        [
+          126.616183603545,
+          43.9799530886306
+        ],
+        [
+          126.617438552507,
+          43.9801993716733
+        ],
+        [
+          126.618617443956,
+          43.9802814657938
+        ],
+        [
+          126.619263932815,
+          43.9803361951445
+        ],
+        [
+          126.6200625367,
+          43.9806645701888
+        ],
+        [
+          126.621165370636,
+          43.9809929434169
+        ],
+        [
+          126.622458348354,
+          43.9813213148288
+        ],
+        [
+          126.623409067265,
+          43.981567592196
+        ],
+        [
+          126.624283728662,
+          43.9820875077272
+        ],
+        [
+          126.625272476329,
+          43.9824432367831
+        ],
+        [
+          126.626527425291,
+          43.9830725983527
+        ],
+        [
+          126.627478144201,
+          43.9831820518577
+        ],
+        [
+          126.629415846253,
+          43.983450704543
+        ],
+        [
+          126.631281019843,
+          43.9835651375358
+        ],
+        [
+          126.632612026318,
+          43.9836745901327
+        ],
+        [
+          126.634779665434,
+          43.9834830479557
+        ],
+        [
+          126.636795189524,
+          43.9834009582622
+        ]
+      ]
+    }
+  },
+  {
+    "id": "road0009",
+    "roadcode": "road0009",
+    "roadname": "097乡道",
+    "startdate": "2017-03-05",
+    "enddate": "2017-10-12",
+    "url": "road_engineering.html",
+    "tupian": "./assets/fupin/img/roadlist/097xiangdao.jpg",
+    "district": "韩家村",
+    "progress": 1,
+    "progressname": "施工中",
+    "dutyleader": "李健",
+    "dutyyear": "2017",
+    "fund": "300万",
+    "fundsource": "吉林市扶贫公路改造项目",
+    "contractor": "吉林建工集团有限公司",
+    "designer": "吉林省交通规划设计院",
+    "construct": "吉林市正龙建筑工程有限公司",
+    "supervisor": "吉林省工程建设监理有限责任公司",
+    "road": 1,
+    "telicon": "/workBenchHome/anquan/daping/assets/event/tel.png",
+    "addressicon": "/workBenchHome/anquan/daping/assets/event/address.png",
+    "fanweicon": "/workBenchHome/anquan/daping/assets/event/fanweicon.png",
+    "hangyeicon": "/workBenchHome/anquan/daping/assets/event/hangyeqiye.png",
+    "icon": "/workBenchHome/anquan/daping/assets/event/xukezheng.png",
+    "icontb": "/workBenchHome/anquan/daping/assets/event/biaoqian.png",
+    "mposb": 43.9687016531949,
+    "mposl": 126.642428199068,
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          126.638354368537,
+          43.9723178075954
+        ],
+        [
+          126.638672859372,
+          43.971814911886
+        ],
+        [
+          126.638863003154,
+          43.9713359596323
+        ],
+        [
+          126.639148218827,
+          43.9711649043199
+        ],
+        [
+          126.639718650173,
+          43.9707885808985
+        ],
+        [
+          126.640241545574,
+          43.9705491011161
+        ],
+        [
+          126.640764440975,
+          43.9702754087538
+        ],
+        [
+          126.641287336376,
+          43.9700017151302
+        ],
+        [
+          126.642142983395,
+          43.9690779898394
+        ],
+        [
+          126.642428199068,
+          43.9687016531949
+        ],
+        [
+          126.642951094469,
+          43.9681200373268
+        ],
+        [
+          126.643569061761,
+          43.9675042025531
+        ],
+        [
+          126.644282100944,
+          43.9668541478095
+        ],
+        [
+          126.645232819854,
+          43.9662382999113
+        ],
+        [
+          126.645850787146,
+          43.9657935169028
+        ],
+        [
+          126.646849042002,
+          43.9661014439557
+        ],
+        [
+          126.647039185784,
+          43.9657250884521
+        ],
+        [
+          126.647181793621,
+          43.9652118725588
+        ],
+        [
+          126.646849042002,
+          43.9647670818648
+        ],
+        [
+          126.646944113893,
+          43.9647328670582
+        ]
+      ]
+    }
+  },
+  {
+    "id": "road0010",
+    "roadcode": "road0010",
+    "roadname": "柳树村西街",
+    "startdate": "2017-03-05",
+    "enddate": "2017-10-12",
+    "url": "road_engineering.html",
+    "tupian": "./assets/fupin/img/roadlist/liushucun.jpg",
+    "district": "柳树村",
+    "progress": 1,
+    "progressname": "施工中",
+    "dutyleader": "李健",
+    "dutyyear": "2017",
+    "fund": "300万",
+    "fundsource": "吉林市扶贫公路改造项目",
+    "contractor": "吉林建工集团有限公司",
+    "designer": "吉林省交通规划设计院",
+    "construct": "吉林市正龙建筑工程有限公司",
+    "supervisor": "吉林省工程建设监理有限责任公司",
+    "road": 1,
+    "telicon": "/workBenchHome/anquan/daping/assets/event/tel.png",
+    "addressicon": "/workBenchHome/anquan/daping/assets/event/address.png",
+    "fanweicon": "/workBenchHome/anquan/daping/assets/event/fanweicon.png",
+    "hangyeicon": "/workBenchHome/anquan/daping/assets/event/hangyeqiye.png",
+    "icon": "/workBenchHome/anquan/daping/assets/event/xukezheng.png",
+    "icontb": "/workBenchHome/anquan/daping/assets/event/biaoqian.png",
+    "mposb": 43.9655198026268,
+    "mposl": 126.645375427691,
+    "geom": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          126.645850787146,
+          43.9657935169028
+        ],
+        [
+          126.645375427691,
+          43.9655198026268
+        ],
+        [
+          126.644709924453,
+          43.965143443438
+        ],
+        [
+          126.643949349325,
+          43.9648697261668
+        ],
+        [
+          126.643236310142,
+          43.9645617927289
+        ]
+      ]
+    }
+  }
+]
