@@ -1,0 +1,31 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    font-family: Arial
+}
+
+.layout {
+    float: left;
+    height: 50%;
+    width: 50%;
+}
+
+#map1 {
+    /*background: #000;*/
+    width: 200px;
+    height: 200px;
+}
+
+#map2 {
+    background: #afe23d;
+}
+
+#map3 {
+    background: #2a46d3;
+}
+
+#map4 {
+    background: #ec3527;
+}
