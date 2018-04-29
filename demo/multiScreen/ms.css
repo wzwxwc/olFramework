@@ -13,9 +13,7 @@ body, html {
 }
 
 #map1 {
-    /*background: #000;*/
-    width: 200px;
-    height: 200px;
+    background: #000;
 }
 
 #map2 {
